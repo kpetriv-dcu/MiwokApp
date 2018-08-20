@@ -64,7 +64,6 @@ public class NumbersActivity extends AppCompatActivity {
             // release the media player object when activity is stopped
             releaseMediaPlayer();
         }
-    };
     
     /**
      * Clean up the media player by releasing its resources.
